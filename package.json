@@ -3,8 +3,8 @@
 	"version": "1.2.3",
 	"displayName": "SmartJoy",
 	"description": "In game joystick",
-	"unity": "2019.1",
-	"unityRelease": "0b5",
+	"unity": "2019.3",
+	"unityRelease": "6f1",
 
 	"keywords": [
 		"joystick",
